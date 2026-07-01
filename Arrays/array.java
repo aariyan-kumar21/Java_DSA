@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture6;
+package Arrays;
 //import java.util.Scanner;
 
 public class array {

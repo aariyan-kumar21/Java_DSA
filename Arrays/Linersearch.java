@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture6;
+package Arrays;
 
 public class Linersearch {
     public static void main (String[] args){

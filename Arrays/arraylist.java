@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture6;
+package Arrays;
 import java.util.ArrayList;
 
 public class arraylist{

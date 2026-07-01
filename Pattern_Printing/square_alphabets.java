@@ -1,7 +1,7 @@
-package geeksforgeeks.lecture4;
+package Pattern_Printing;
 import java.util.Scanner;
 
-public class sqaure_aplhabets {
+public class square_alphabets {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);

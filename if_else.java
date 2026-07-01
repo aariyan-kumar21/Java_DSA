@@ -1,9 +1,6 @@
-// if else statement in java
-
-package geeksforgeeks;
 import java.util.Scanner;
 
-public class lecture2{
+public class if_else {
     /* public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);

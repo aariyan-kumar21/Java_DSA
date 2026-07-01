@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture5;
+package Methods;
 
 public class methods {
 

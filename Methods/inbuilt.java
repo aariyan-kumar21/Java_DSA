@@ -1,5 +1,4 @@
-package geeksforgeeks.lecture5;
-
+package Methods;
 public class inbuilt {
     public static void main(String[] args) {
         System.out.println(Math.sqrt(4)); 

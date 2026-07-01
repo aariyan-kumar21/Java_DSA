@@ -1,7 +1,7 @@
-package geeksforgeeks.lecture4;
+package Pattern_Printing;
 import java.util.Scanner;
 
-public class pryamid {
+public class pyramid {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

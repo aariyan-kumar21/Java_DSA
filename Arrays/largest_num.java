@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture6;
+package Arrays;
 import java.util.Scanner;
 public class largest_num {
     public static void main(String []args){

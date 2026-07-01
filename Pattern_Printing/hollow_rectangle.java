@@ -1,4 +1,4 @@
-package geeksforgeeks.lecture4;
+package Pattern_Printing;
 import java.util.Scanner;
 
 public class hollow_rectangle {

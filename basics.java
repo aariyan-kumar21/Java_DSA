@@ -1,9 +1,6 @@
-// Basics java
-
-package geeksforgeeks;
 import java.util.Scanner;
 
-public class lecture1{
+public class basics{
     public static void main(String[] args){
 
     // volume of a sphere
